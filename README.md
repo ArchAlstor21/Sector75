@@ -2,13 +2,14 @@
 
 A C++ OpenGL game application from scratch. This is experimental and in very early development!
 
-NOTE: This project was made on Linux! Windows support is untested!
+NOTE: This project was made on Linux! Windows and MacOS support is untested!
 
 ## Project Status
 NOTE ON AI USAGE: I will only be using AI for simple questions and explainations. I will not be using it to generated any code or text for this project. This entire project is and will be hand written.
 
 - [x] Get window to open
-- [ ] Render a triangle
+- [x] Render a triangle
+- [ ] Render a rectangle with an EBO
 - [ ] TBD
 
 ## Requirements to Build Project
